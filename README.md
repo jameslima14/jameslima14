@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jameslima14
 - 👀 I’m interested in web design/development
 - 🌱 I’m currently learning Figma, HTML, CSS, Javascript
-- 💞️ I’m looking to collaborate on anything
+- 💞️ I’m looking to collaborate on anything and network!
 - 📫 How to reach me: jameslima14@gmail.com
 
 <!---
