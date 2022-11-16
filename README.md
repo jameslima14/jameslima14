@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @jameslima14
+- 👋 Hi, I’m @jamesxlima
 - 👀 I’m interested in web design/development
 - 🌱 I’m currently learning Figma, HTML, CSS, Javascript
 - 💞️ I’m looking to collaborate on anything and network!
-- 📫 How to reach me: jameslima14@gmail.com
+- 📫 How to reach me: jamesxlima@gmail.com
 
 <!---
 jameslima14/jameslima14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
