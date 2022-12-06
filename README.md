@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jamesxlima
 - 👀 I’m interested in web design/development
-- 🌱 I’m currently learning Figma, HTML, CSS, Javascript
+- 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on anything and network!
 - 📫 How to reach me: jamesxlima@gmail.com
 
